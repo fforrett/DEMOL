@@ -56,7 +56,7 @@
 
 
     print #main.gbInput, "font ms_sans_serif 10"
-    print #main.gbInput, "fill red"
+    print #main.gbInput, "fill yellow"
     print #main.gbInput, "backcolor red"
     print #main.gbInput, "color white"
     print #main.gbInput, "place 5 13"
